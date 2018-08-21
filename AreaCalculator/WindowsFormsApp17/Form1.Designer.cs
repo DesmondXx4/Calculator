@@ -76,28 +76,28 @@
             this.正方形ToolStripMenuItem.Name = "正方形ToolStripMenuItem";
             this.正方形ToolStripMenuItem.Size = new System.Drawing.Size(146, 30);
             this.正方形ToolStripMenuItem.Text = "正方形";
-            this.正方形ToolStripMenuItem.Click += new System.EventHandler(this.正方形ToolStripMenuItem_Click);
+            this.正方形ToolStripMenuItem.Click += new System.EventHandler(this.ZFXToolStripMenuItem_Click);
             // 
             // 长方形ToolStripMenuItem
             // 
             this.长方形ToolStripMenuItem.Name = "长方形ToolStripMenuItem";
             this.长方形ToolStripMenuItem.Size = new System.Drawing.Size(146, 30);
             this.长方形ToolStripMenuItem.Text = "长方形";
-            this.长方形ToolStripMenuItem.Click += new System.EventHandler(this.长方形ToolStripMenuItem_Click);
+            this.长方形ToolStripMenuItem.Click += new System.EventHandler(this.CFXToolStripMenuItem_Click);
             // 
             // 圆形ToolStripMenuItem
             // 
             this.圆形ToolStripMenuItem.Name = "圆形ToolStripMenuItem";
             this.圆形ToolStripMenuItem.Size = new System.Drawing.Size(146, 30);
             this.圆形ToolStripMenuItem.Text = "圆形";
-            this.圆形ToolStripMenuItem.Click += new System.EventHandler(this.圆形ToolStripMenuItem_Click);
+            this.圆形ToolStripMenuItem.Click += new System.EventHandler(this.YXToolStripMenuItem_Click);
             // 
             // 三角形ToolStripMenuItem
             // 
             this.三角形ToolStripMenuItem.Name = "三角形ToolStripMenuItem";
             this.三角形ToolStripMenuItem.Size = new System.Drawing.Size(146, 30);
             this.三角形ToolStripMenuItem.Text = "三角形";
-            this.三角形ToolStripMenuItem.Click += new System.EventHandler(this.三角形ToolStripMenuItem_Click);
+            this.三角形ToolStripMenuItem.Click += new System.EventHandler(this.SJXToolStripMenuItem_Click);
             // 
             // 单位ToolStripMenuItem
             // 
@@ -113,14 +113,14 @@
             this.厘米ToolStripMenuItem.Name = "厘米ToolStripMenuItem";
             this.厘米ToolStripMenuItem.Size = new System.Drawing.Size(128, 30);
             this.厘米ToolStripMenuItem.Text = "厘米";
-            this.厘米ToolStripMenuItem.Click += new System.EventHandler(this.厘米ToolStripMenuItem_Click);
+            this.厘米ToolStripMenuItem.Click += new System.EventHandler(this.LMToolStripMenuItem_Click);
             // 
             // 英寸ToolStripMenuItem
             // 
             this.英寸ToolStripMenuItem.Name = "英寸ToolStripMenuItem";
             this.英寸ToolStripMenuItem.Size = new System.Drawing.Size(128, 30);
             this.英寸ToolStripMenuItem.Text = "英寸";
-            this.英寸ToolStripMenuItem.Click += new System.EventHandler(this.英寸ToolStripMenuItem_Click);
+            this.英寸ToolStripMenuItem.Click += new System.EventHandler(this.YCToolStripMenuItem_Click);
             // 
             // textBox1
             // 

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp17", "WindowsFormsApp17\WindowsFormsApp17.csproj", "{892838E3-15AC-40A8-B47B-34BEA5D1D615}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculate", "WindowsFormsApp17\calculate.csproj", "{892838E3-15AC-40A8-B47B-34BEA5D1D615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "UnitTestProject2\UnitTestProject2.csproj", "{FC6C429E-57B8-4F70-8DE6-1A6FF1CB1B2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{892838E3-15AC-40A8-B47B-34BEA5D1D615}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{892838E3-15AC-40A8-B47B-34BEA5D1D615}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{892838E3-15AC-40A8-B47B-34BEA5D1D615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6C429E-57B8-4F70-8DE6-1A6FF1CB1B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6C429E-57B8-4F70-8DE6-1A6FF1CB1B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6C429E-57B8-4F70-8DE6-1A6FF1CB1B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6C429E-57B8-4F70-8DE6-1A6FF1CB1B2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

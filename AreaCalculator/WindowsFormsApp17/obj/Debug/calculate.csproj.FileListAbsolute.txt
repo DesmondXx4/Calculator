@@ -1,0 +1,10 @@
+C:\Users\联想\source\repos\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\联想\source\repos\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\联想\source\repos\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\联想\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\calculate.csprojAssemblyReference.cache
+C:\Users\联想\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\联想\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\联想\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\calculate.csproj.GenerateResource.cache
+C:\Users\联想\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+C:\Users\联想\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\联想\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
